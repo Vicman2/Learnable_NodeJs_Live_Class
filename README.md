@@ -1,0 +1,2 @@
+- Run npm install 
+- Add .env and run 
